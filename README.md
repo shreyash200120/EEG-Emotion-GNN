@@ -35,8 +35,8 @@ The model captures both **local and global inter-channel dependencies** in EEG s
 ---
 
 ## 📂 Repository Structure
-  ├── model_simple.py   # your RGNN model code
-  └── README.md         # documentation
+    ├── model_simple.py   # your RGNN model code
+    └── README.md         # documentation
 
 ## ⚙️ Installation
 
