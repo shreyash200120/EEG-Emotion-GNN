@@ -41,12 +41,10 @@ The model captures both **local and global inter-channel dependencies** in EEG s
 ## ⚙️ Installation
 
 1. Clone this repository:
-   
-   git clone https://github.com/your-username/RGNN-EEG-Emotion.git
-   cd RGNN-EEG-Emotion
+    git clone https://github.com/your-username/RGNN-EEG-Emotion.git 
+    cd RGNN-EEG-Emotion
 
-2. Install dependencies:
-
-  pip install torch torchvision torchaudio
-  pip install torch-geometric torch-scatter
-  pip install numpy        
+3. Install dependencies:
+    pip install torch torchvision torchaudio
+    pip install torch-geometric torch-scatter
+    pip install numpy        
